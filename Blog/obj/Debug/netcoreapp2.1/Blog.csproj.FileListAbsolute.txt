@@ -23,3 +23,5 @@ C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.Views.pdb
 C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Blog.csproj.CopyComplete
 C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\Messages\ShowMessage.g.cshtml.cs
+C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\Calculator\Result.g.cshtml.cs

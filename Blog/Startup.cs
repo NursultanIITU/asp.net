@@ -31,7 +31,20 @@ namespace Blog
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=Hello}/{action=Index}/{id?}");
+
+                //routes.MapRoute(
+                //    name: "messages",
+                //    template: "say/{*message}",
+                //    defaults: new { controller = "Messages", action = "ShowMessage" });
+
+                //routes.MapRoute(
+                //    name: "calculator",
+                //    template: "{controller=Calculator}/addTenToNumber/{number:int}",
+                //    defaults: new { action = "plusTen" });
+
             });
+
+         
 
             app.UseStaticFiles();
         }
