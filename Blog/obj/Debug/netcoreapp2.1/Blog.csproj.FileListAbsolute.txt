@@ -25,3 +25,7 @@ C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\Shared
 C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\Messages\ShowMessage.g.cshtml.cs
 C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\Calculator\Result.g.cshtml.cs
+C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Index.g.cshtml.cs
+C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Add.g.cshtml.cs
+C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\77479\source\repos\Blog\Blog\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Search.g.cshtml.cs
